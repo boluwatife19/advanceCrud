@@ -1,0 +1,51 @@
+Advance CRUD Application
+Table of Contents
+Description
+Features
+Technologies Used
+Usage
+Description
+The Advance CRUD (Create, Read, Update, Delete) Application is a versatile PHP-based web application that enables users to manage and interact with a database of records. This application comes equipped with essential CRUD operations along with advanced features such as pagination, search, and filtering, making it suitable for handling large datasets efficiently.
+
+As the developer of this application, I aimed to create a user-friendly and feature-rich tool for managing and interacting with data records stored in a PHPMYADMIN database.
+
+Features
+CRUD Operations: Perform Create, Read, Update, and Delete operations on database records.
+
+Pagination: Efficiently manage large datasets by splitting them into multiple pages.
+
+Search Functionality: Search and retrieve specific records based on user-defined keywords.
+
+Responsive Design: The application is built with responsive design principles for optimal usability across various devices.
+
+Technologies Used
+The Advance CRUD Application is built using the following technologies:
+
+PHP: Server-side scripting language used for application logic.
+PHPMYADMIN: Database system for storing and managing data records.
+Bootstrap: Front-end framework for designing responsive and user-friendly interfaces.
+HTML and CSS: Markup and styling languages used for structuring and presenting content.
+PDO (PHP Data Objects): A PHP extension for database connectivity.
+Usage
+To use the Advance CRUD Application, follow these steps:
+
+Database Setup:
+
+Ensure that you have a PHPMYADMIN database set up with the necessary table structure. You can refer to the connect.php file for database configuration.
+Include Files:
+
+Make sure to include the required PHP files in your project. These files may include classes, database configurations, and other utility scripts.
+CRUD Operations:
+
+Utilize the CRUD operations provided by the application to create, read, update, and delete records from the database.
+Pagination:
+
+Take advantage of the pagination feature to navigate through multiple pages of records efficiently.
+Search Functionality:
+
+Use the search functionality to search for specific records based on user-defined keywords (e.g., first name or last name).
+Responsive Design:
+
+The application is designed to be responsive, ensuring a seamless user experience across different devices.
+
+This README provides an overview of the Advance CRUD Application, its features, and usage instructions. It also outlines the technologies used and provides guidance for contributing to the project. This application is designed to simplify data management tasks and provide an efficient way to interact with database records.
